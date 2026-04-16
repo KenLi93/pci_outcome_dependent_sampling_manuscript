@@ -18,4 +18,4 @@ Simulation with condinuous NCE, NCO, and unmeasured and measured confoundings (S
 - run_sim_nc_bin.R: main code to perform the simulation study.
 - report_sim_bin.R: summarize and report the results of the simulation.
 
-Preprint of the manuscript available at \url{https://arxiv.org/abs/2208.01237}.
+Preprint of the manuscript available at https://arxiv.org/abs/2208.01237.
