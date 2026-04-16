@@ -17,3 +17,5 @@ Simulation with condinuous NCE, NCO, and unmeasured and measured confoundings (S
 - nc_continuous_fun_mis_both_bridge.R: implementing the oracle logistic regression estimator and the three proximal estimators with continuous data, but both the treatment and the outcome confounding bridge functions were misspecified (Scenario V).
 - run_sim_nc_bin.R: main code to perform the simulation study.
 - report_sim_bin.R: summarize and report the results of the simulation.
+
+Preprint of the manuscript available at \url{https://arxiv.org/abs/2208.01237}.
