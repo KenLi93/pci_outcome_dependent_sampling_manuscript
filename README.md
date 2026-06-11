@@ -1,5 +1,5 @@
-# R code for “Doubly Robust Proximal Causal Inference under Confounded Outcome-Dependent Sampling”
-This repository includes R Code for implementing the estimators and reproducing the simulation study in the manuscript "Doubly Robust Proximal Causal Inference under Confounded Outcome-Dependent Sampling".
+# Supplementary Materials for “Doubly Robust Proximal Causal Inference under Confounded Outcome-Dependent Sampling” by Kendrick Li, Wang Miao, Xu Shi, and Eric Tchetgen Tchetgen.
+This directory contains the Web Appendices and R Code for implementing the estimators and reproducing the simulation study in the manuscript "Doubly Robust Proximal Causal Inference under Confounded Outcome-Dependent Sampling".
 
 Simulation with binary NCE, NCO, and unmeasured and measured confoundings (Scenario I in Section 7 of the manuscript):
 
