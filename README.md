@@ -18,4 +18,8 @@ Simulation with condinuous NCE, NCO, and unmeasured and measured confoundings (S
 - run_sim_nc_bin.R: main code to perform the simulation study.
 - report_sim_bin.R: summarize and report the results of the simulation.
 
+The UHMS data in Section 9 is not provided because it contains sensitive patient information. We provide the code to generate a mock UHMS dataset and reproduce the analysis. 
+- data_gen_multinomial_A.R: generate the mock UHMS dataset where the participant may receive one of Pfizer, Moderna, or J&J vaccines, or no vaccine.
+- run_nc_multinomial_A.R: code to perform the mock UHMS analysis.
+
 Preprint of the manuscript available at https://arxiv.org/abs/2208.01237.
